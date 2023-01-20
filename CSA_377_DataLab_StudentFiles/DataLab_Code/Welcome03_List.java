@@ -9,12 +9,12 @@ import java.util.Scanner;
 
 public class Welcome03_List {
    public static void main(String[] args) {
-      DataSource ds = DataSource.connect("/workspace/Data-Lab/CSA_377_DataLab_StudentFiles/DataLab_Code/weather.xml").load();
+      DataSource ds = DataSource.connect("https://w1.weather.gov/xml/current_obs/index.xml").load();
       ds.printUsageString();
       ArrayList<WeatherStation> allstns = ds.fetchList("WeatherStation", "station/station_name", 
              "station/station_id", "station/state",
              "station/latitude", "station/longitude");
-      System.out.println("Total stations: " + allstns.size());
+      // System.out.println("Total stations: " + allstns.size());
         
       
       Scanner sc = new Scanner(System.in);
