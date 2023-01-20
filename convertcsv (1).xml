@@ -1,0 +1,2370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Id>1</Id>
+    <Name>Harry James Potter</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Gryffindor</House>
+    <Wand>11&quot;  Holly  phoenix feather</Wand>
+    <Patronus>Stag</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Half-blood</Blood_status>
+    <Hair_color>Black</Hair_color>
+    <Eye_color>Bright green</Eye_color>
+    <Loyalty>Albus Dumbledore | Dumbledore&apos;s Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills>Parseltongue| Defence Against the Dark Arts | Seeker</Skills>
+    <Birth>31 July 1980</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>2</Id>
+    <Name>Ronald Bilius Weasley</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Gryffindor</House>
+    <Wand>12&quot; Ash unicorn tail hair </Wand>
+    <Patronus>Jack Russell terrier</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>Red</Hair_color>
+    <Eye_color>Blue</Eye_color>
+    <Loyalty>Dumbledore&apos;s Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills>Wizard chess | Quidditch goalkeeping</Skills>
+    <Birth>1 March 1980</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>3</Id>
+    <Name>Hermione Jean Granger</Name>
+    <Gender>Female</Gender>
+    <Job>Student</Job>
+    <House>Gryffindor</House>
+    <Wand>10¾&quot;  vine wood dragon heartstring</Wand>
+    <Patronus>Otter</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Muggle-born</Blood_status>
+    <Hair_color>Brown</Hair_color>
+    <Eye_color>Brown</Eye_color>
+    <Loyalty>Dumbledore&apos;s Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills>Almost everything</Skills>
+    <Birth>19 September, 1979</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>4</Id>
+    <Name>Albus Percival Wulfric Brian Dumbledore</Name>
+    <Gender>Male</Gender>
+    <Job>Headmaster</Job>
+    <House>Gryffindor</House>
+    <Wand>15&quot; Elder Thestral tail hair core</Wand>
+    <Patronus>Phoenix</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Half-blood</Blood_status>
+    <Hair_color>Silver| formerly auburn</Hair_color>
+    <Eye_color>Blue</Eye_color>
+    <Loyalty>Dumbledore&apos;s Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills>Considered by many to be one of the most powerful wizards of his time</Skills>
+    <Birth>Late August 1881</Birth>
+    <Death>30 June, 1997 </Death>
+  </row>
+  <row>
+    <Id>5</Id>
+    <Name>Rubeus Hagrid</Name>
+    <Gender>Male</Gender>
+    <Job>Keeper of Keys and Grounds | Professor of Care of Magical Creatures </Job>
+    <House>Gryffindor</House>
+    <Wand>16&quot;  Oak unknown core</Wand>
+    <Patronus>None</Patronus>
+    <Species>Half-Human/Half-Giant</Species>
+    <Blood_status>Part-Human (Half-giant)</Blood_status>
+    <Hair_color>Black</Hair_color>
+    <Eye_color>Black</Eye_color>
+    <Loyalty>Albus Dumbledore | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills>Resistant to stunning spells| above average strength | crossbowmanship</Skills>
+    <Birth>6 December 1928</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>6</Id>
+    <Name>Neville Longbottom</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Gryffindor</House>
+    <Wand>13&quot; Cherry unicorn hair</Wand>
+    <Patronus>Non-corporeal</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>Blond</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty>Dumbledore&apos;s Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills>Herbology</Skills>
+    <Birth>30 July, 1980</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>7</Id>
+    <Name>Fred Weasley</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Gryffindor</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>Red</Hair_color>
+    <Eye_color>Brown</Eye_color>
+    <Loyalty>Dumbledore&apos;s Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills>Beater</Skills>
+    <Birth>1 April, 1978 </Birth>
+    <Death>2 May, 1998</Death>
+  </row>
+  <row>
+    <Id>8</Id>
+    <Name>George Weasley</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Gryffindor</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>Red</Hair_color>
+    <Eye_color>Brown</Eye_color>
+    <Loyalty>Dumbledore&apos;s Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills>Beater</Skills>
+    <Birth> 1 April, 1978 </Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>9</Id>
+    <Name>Ginevra (Ginny) Molly Weasley</Name>
+    <Gender>Female</Gender>
+    <Job>Student</Job>
+    <House>Gryffindor</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Horse</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>Red</Hair_color>
+    <Eye_color>Bright brown</Eye_color>
+    <Loyalty>Dumbledore&apos;s Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills>Chaser| Bat-Bogey hex</Skills>
+    <Birth>11 August, 1981</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>10</Id>
+    <Name>Dean Thomas</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Gryffindor</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Muggle-born</Blood_status>
+    <Hair_color>Black</Hair_color>
+    <Eye_color>Brown</Eye_color>
+    <Loyalty>Dumbledore&apos;s Army | Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills>Chaser</Skills>
+    <Birth> 1 September 1979- 31 August 1980</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>11</Id>
+    <Name>Seamus Finnigan</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Gryffindor</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Fox</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Half-blood</Blood_status>
+    <Hair_color>Sandy</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty>Dumbledore&apos;s Army | Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills>Pyrotechnics</Skills>
+    <Birth> 1 September 1979- 31 August 1981</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>12</Id>
+    <Name>Lily J. Potter</Name>
+    <Gender>Female</Gender>
+    <Job></Job>
+    <House>Gryffindor</House>
+    <Wand>10¼&quot;  Willow  unknown core</Wand>
+    <Patronus>Doe</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Muggle-born</Blood_status>
+    <Hair_color>Auburn</Hair_color>
+    <Eye_color>Bright green</Eye_color>
+    <Loyalty>Order of the Phoenix</Loyalty>
+    <Skills></Skills>
+    <Birth>30 January, 1960 </Birth>
+    <Death>31 October, 1981</Death>
+  </row>
+  <row>
+    <Id>13</Id>
+    <Name>James Potter</Name>
+    <Gender>Male</Gender>
+    <Job></Job>
+    <House>Gryffindor</House>
+    <Wand>11&quot;  Mahogany  unknown core</Wand>
+    <Patronus>Stag</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>Black</Hair_color>
+    <Eye_color>Hazel</Eye_color>
+    <Loyalty>Order of the Phoenix</Loyalty>
+    <Skills>Animagus| Seeker</Skills>
+    <Birth>27 March, 1960</Birth>
+    <Death>31 October, 1981</Death>
+  </row>
+  <row>
+    <Id>14</Id>
+    <Name>Sirius Black</Name>
+    <Gender>Male</Gender>
+    <Job></Job>
+    <House>Gryffindor</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>Black</Hair_color>
+    <Eye_color>Grey</Eye_color>
+    <Loyalty>Order of the Phoenix</Loyalty>
+    <Skills>Animagus| nonverbal magic| Charms</Skills>
+    <Birth>3 November, 1959</Birth>
+    <Death>18 June, 1996</Death>
+  </row>
+  <row>
+    <Id>15</Id>
+    <Name>Remus John Lupin</Name>
+    <Gender>Male</Gender>
+    <Job>Professor of Defence Against the Dark Arts </Job>
+    <House>Gryffindor</House>
+    <Wand>10¼&quot; Cypress unicorn hair</Wand>
+    <Patronus>Wolf</Patronus>
+    <Species>Werewolf</Species>
+    <Blood_status>Half-blood</Blood_status>
+    <Hair_color>Light brown flecked with grey</Hair_color>
+    <Eye_color>Green</Eye_color>
+    <Loyalty>Order of the Phoenix</Loyalty>
+    <Skills>Exceptionally gifted in Defence Against the Dark Arts</Skills>
+    <Birth>10 March, 1960</Birth>
+    <Death>2 May, 1998</Death>
+  </row>
+  <row>
+    <Id>16</Id>
+    <Name>Peter Pettigrew</Name>
+    <Gender>Male</Gender>
+    <Job>The Servant of Lord Voldemort</Job>
+    <House>Gryffindor</House>
+    <Wand>9¼&quot; Chestnut dragon heartstring</Wand>
+    <Patronus>None</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Half-blood or pure-blood</Blood_status>
+    <Hair_color>Colourless and balding</Hair_color>
+    <Eye_color>Blue</Eye_color>
+    <Loyalty>Lord Voldemort| Death Eaters</Loyalty>
+    <Skills>Animagus</Skills>
+    <Birth>1 September 1959- 31 August 1960</Birth>
+    <Death>Late March 1998</Death>
+  </row>
+  <row>
+    <Id>17</Id>
+    <Name>Percy Ignatius Weasley</Name>
+    <Gender>Male</Gender>
+    <Job>Student|Prefect|  Personal assistant to Barty Crouch Snr </Job>
+    <House>Gryffindor</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>Red</Hair_color>
+    <Eye_color>Blue</Eye_color>
+    <Loyalty>Order of the Phoenix| Hogwarts School of Witchcraft and Wizardry |British Ministry of Magic</Loyalty>
+    <Skills>Intelligent| hard-working| a model student</Skills>
+    <Birth>22 August, 1976 </Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>18</Id>
+    <Name>(Bill) William Arthur Weasley</Name>
+    <Gender>Male</Gender>
+    <Job>Curse-Breaker for Gringotts Bank</Job>
+    <House>Gryffindor</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human (Werewolf traits)</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>Red</Hair_color>
+    <Eye_color>Blue</Eye_color>
+    <Loyalty>Order of the Phoenix</Loyalty>
+    <Skills>Highly skilled curse-breaker for Gringotts Wizarding Bank| very intelligent| past Hogwarts Head Boy</Skills>
+    <Birth>29 November, 1970</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>19</Id>
+    <Name>Charles Weasley</Name>
+    <Gender>Male</Gender>
+    <Job>Dragonologist</Job>
+    <House>Gryffindor</House>
+    <Wand>12&quot;  Ash unicorn tail hair</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>Red</Hair_color>
+    <Eye_color>Grey</Eye_color>
+    <Loyalty>Order of the Phoenix | Gringotts Wizarding Bank</Loyalty>
+    <Skills>Highly skilled dragon trainer| one-time Gryffindor Seeker</Skills>
+    <Birth>12 December, 1972</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>20</Id>
+    <Name>Lee Jordan </Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Gryffindor</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color>Black</Hair_color>
+    <Eye_color>Brown</Eye_color>
+    <Loyalty>Dumbledore&apos;s Army | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills>Quidditch commentary | broadcasting</Skills>
+    <Birth> 1 September 1977- 31 August 1978</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>21</Id>
+    <Name>Oliver Wood</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Gryffindor</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or Half-blood</Blood_status>
+    <Hair_color></Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty>Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills>Keeper|  Captain of the Gryffindor Quidditch team</Skills>
+    <Birth> October 1975 - 31 August 1976</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>22</Id>
+    <Name>Angelina Johnson</Name>
+    <Gender>Female</Gender>
+    <Job>Student</Job>
+    <House>Gryffindor</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Unknown</Blood_status>
+    <Hair_color>Brown</Hair_color>
+    <Eye_color>Brown</Eye_color>
+    <Loyalty>Dumbledore&apos;s Army |Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills>Chaser</Skills>
+    <Birth>24 – 30 October, 1977</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>23</Id>
+    <Name>Katie Bell</Name>
+    <Gender>Female</Gender>
+    <Job>Student</Job>
+    <House>Gryffindor</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color>Brown</Hair_color>
+    <Eye_color>Brown</Eye_color>
+    <Loyalty>Dumbledore&apos;s Army |Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills>Chaser</Skills>
+    <Birth> 1 September 1978- 31 August 1979</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>24</Id>
+    <Name>Alicia Spinnet</Name>
+    <Gender>Female</Gender>
+    <Job>Student</Job>
+    <House>Gryffindor</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color>Brown</Hair_color>
+    <Eye_color>Brown</Eye_color>
+    <Loyalty>Dumbledore&apos;s Army |Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills>Chaser</Skills>
+    <Birth>1 September 1977- 31 August 1978</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>25</Id>
+    <Name>Lavender Brown</Name>
+    <Gender>Female</Gender>
+    <Job>Student</Job>
+    <House>Gryffindor</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>Blond</Hair_color>
+    <Eye_color>Blue</Eye_color>
+    <Loyalty>Dumbledore&apos;s Army |Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills>Divination</Skills>
+    <Birth> 1 September 1979- 31 August 1980</Birth>
+    <Death>2 May, 1998</Death>
+  </row>
+  <row>
+    <Id>26</Id>
+    <Name>Parvati Patil</Name>
+    <Gender>Female</Gender>
+    <Job>Student</Job>
+    <House>Gryffindor</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color>Dark</Hair_color>
+    <Eye_color>Dark</Eye_color>
+    <Loyalty>Dumbledore&apos;s Army |Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills>Divination</Skills>
+    <Birth> 1 September 1979- 21 April 1980</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>27</Id>
+    <Name>Romilda Vane</Name>
+    <Gender>Female</Gender>
+    <Job>Student</Job>
+    <House>Gryffindor</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color>Black</Hair_color>
+    <Eye_color>Dark</Eye_color>
+    <Loyalty>Dumbledore&apos;s Army |Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills>Spiking Chocolate Cauldrons with love potion</Skills>
+    <Birth> 1 September 1981- 31 August 1982</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>28</Id>
+    <Name>Colin Creevey</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Gryffindor</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Muggle-born</Blood_status>
+    <Hair_color>Mousy</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty>Dumbledore&apos;s Army |Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills>Photography</Skills>
+    <Birth> 3 May - 31 August 1981</Birth>
+    <Death>2 May, 1998</Death>
+  </row>
+  <row>
+    <Id>29</Id>
+    <Name>Cormac McLaggen</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Gryffindor</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color>Blond</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty>Dumbledore&apos;s Army |Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills>Quidditch Keeper</Skills>
+    <Birth> 1 September 1978- 31 August 1979</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>30</Id>
+    <Name>Minerva McGonagall</Name>
+    <Gender>Female</Gender>
+    <Job>Professor of Transfiguration | Head of Gryffindor</Job>
+    <House>Gryffindor</House>
+    <Wand>9½&quot; Fir dragon heartstring</Wand>
+    <Patronus>Cat</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Half-blood</Blood_status>
+    <Hair_color>Black</Hair_color>
+    <Eye_color>Green</Eye_color>
+    <Loyalty>Albus Dumbledore | Order of the Phoenix | Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills>Animagus </Skills>
+    <Birth>4 October</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>31</Id>
+    <Name>Molly Weasley</Name>
+    <Gender>Female</Gender>
+    <Job></Job>
+    <House>Gryffindor</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>Red</Hair_color>
+    <Eye_color>Bright brown</Eye_color>
+    <Loyalty>Order of the Phoenix</Loyalty>
+    <Skills>Household spells| healing magic</Skills>
+    <Birth>30 October, 1949 </Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>32</Id>
+    <Name>Arthur Weasley</Name>
+    <Gender>Male</Gender>
+    <Job>Head of the Misuse of Muggle Artefacts Office</Job>
+    <House>Gryffindor</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Weasel</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>Red</Hair_color>
+    <Eye_color>Green</Eye_color>
+    <Loyalty>Order of the Phoenix| British Ministry of Magic</Loyalty>
+    <Skills>Muggle world works</Skills>
+    <Birth>6 February, 1950</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>33</Id>
+    <Name>Quirinus Quirrell</Name>
+    <Gender>Male</Gender>
+    <Job>Defence Against the Dark Arts(1991-1992)</Job>
+    <House>Ravenclaw</House>
+    <Wand>9&quot; Alder unicorn hair bendy</Wand>
+    <Patronus>Non-corporeal</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Half-blood</Blood_status>
+    <Hair_color></Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty>Lord Voldemort</Loyalty>
+    <Skills>Learned in the theory of Defensive Magic| less adept in the practise</Skills>
+    <Birth>26 September,1970 or earlier</Birth>
+    <Death>4 June 1992</Death>
+  </row>
+  <row>
+    <Id>34</Id>
+    <Name>Cho Chang</Name>
+    <Gender>Female</Gender>
+    <Job>Student</Job>
+    <House>Ravenclaw</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Swan</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color>Black</Hair_color>
+    <Eye_color>Dark</Eye_color>
+    <Loyalty>Dumbledore&apos;s Army |Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills>Seeker</Skills>
+    <Birth>1 September 1978-31 August 1979</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>35</Id>
+    <Name>Luna Lovegood</Name>
+    <Gender>Female</Gender>
+    <Job>Student</Job>
+    <House>Ravenclaw</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Hare</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color>Dirty-blonde</Hair_color>
+    <Eye_color>Pale silvery</Eye_color>
+    <Loyalty>Dumbledore&apos;s Army |Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills>Spotting Nargles</Skills>
+    <Birth>13 February, 1981</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>36</Id>
+    <Name>Gilderoy Lockhart</Name>
+    <Gender>Male</Gender>
+    <Job>Defence Against the Dark Arts(1992-1993)</Job>
+    <House>Ravenclaw</House>
+    <Wand>9&quot; Cherry dragon heartstring</Wand>
+    <Patronus>Non-corporeal</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Half-blood</Blood_status>
+    <Hair_color>Blond</Hair_color>
+    <Eye_color>Blue</Eye_color>
+    <Loyalty></Loyalty>
+    <Skills></Skills>
+    <Birth>26 January 1964</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>37</Id>
+    <Name>Filius Flitwick</Name>
+    <Gender>Male</Gender>
+    <Job>Professor of Charms | Head of Ravenclaw</Job>
+    <House>Ravenclaw</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Non-corporeal</Patronus>
+    <Species>Human(goblin ancestry)</Species>
+    <Blood_status>Part-Goblin</Blood_status>
+    <Hair_color>White</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>Charms</Skills>
+    <Birth>17 October 1958 or earlier </Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>38</Id>
+    <Name>Sybill Patricia Trelawney</Name>
+    <Gender>Female</Gender>
+    <Job>Professor of Divination</Job>
+    <House>Ravenclaw</House>
+    <Wand>9 ½” hazel unicorn hair core</Wand>
+    <Patronus>Non-corporeal</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Half-blood</Blood_status>
+    <Hair_color></Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>A Seer, though the gift is unpredictable and unconscious</Skills>
+    <Birth>9 March prior to 1962 </Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>39</Id>
+    <Name>Garrick Ollivander</Name>
+    <Gender>Male</Gender>
+    <Job>Wandmaker</Job>
+    <House>Ravenclaw</House>
+    <Wand>12¾&quot; Hornbeam dragon heartstring</Wand>
+    <Patronus>Non-corporeal</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Half-blood</Blood_status>
+    <Hair_color></Hair_color>
+    <Eye_color>Silvery</Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>An incomparable understanding of wandcraft</Skills>
+    <Birth>25 September, pre 1908</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>40</Id>
+    <Name>Myrtle Elizabeth Warren (Moaning Myrtle)</Name>
+    <Gender>Female</Gender>
+    <Job>Student</Job>
+    <House>Ravenclaw</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Ghost</Species>
+    <Blood_status>Muggle-born</Blood_status>
+    <Hair_color></Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty></Loyalty>
+    <Skills></Skills>
+    <Birth>14 June 1928 -13 June 1929</Birth>
+    <Death>13 June, 1943</Death>
+  </row>
+  <row>
+    <Id>41</Id>
+    <Name>Padma Patil</Name>
+    <Gender>Female</Gender>
+    <Job>Student</Job>
+    <House>Ravenclaw</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Non-corporeal</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color>Dark</Hair_color>
+    <Eye_color>Dark</Eye_color>
+    <Loyalty>Dumbledore&apos;s Army |Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills>Prefect</Skills>
+    <Birth> 1 September 1979 - 21 April 1980</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>42</Id>
+    <Name>Michael Corner</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Ravenclaw</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Squirrel</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Half-blood</Blood_status>
+    <Hair_color>Black</Hair_color>
+    <Eye_color>Brown</Eye_color>
+    <Loyalty>Dumbledore&apos;s Army |Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills>Potions</Skills>
+    <Birth> 1 September 1979 - 31 August 1980</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>43</Id>
+    <Name>Marietta Edgecombe</Name>
+    <Gender>Female</Gender>
+    <Job>Student</Job>
+    <House>Ravenclaw</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color>Reddish-blonde</Hair_color>
+    <Eye_color>Grey</Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>Covering up the spots that blight her face after betraying Dumbledore&apos;s Army</Skills>
+    <Birth>1978-1979</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>44</Id>
+    <Name>Terry Boot</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Ravenclaw</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color></Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty>Dumbledore&apos;s Army |Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills>Potions, also knowledgable about Charms</Skills>
+    <Birth>1 September 1979- 21 April 1980</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>45</Id>
+    <Name>Anthony Goldstein</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Ravenclaw</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Non-corporeal</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Half-blood</Blood_status>
+    <Hair_color>Blonde</Hair_color>
+    <Eye_color>Grey</Eye_color>
+    <Loyalty>Dumbledore&apos;s Army |Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills>Prefect</Skills>
+    <Birth> 1 September 1979- 31 August 1980</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>46</Id>
+    <Name>Severus Snape</Name>
+    <Gender>Male</Gender>
+    <Job>Professor of Potions | Head of Slytherin</Job>
+    <House>Slytherin</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Doe</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Half-blood</Blood_status>
+    <Hair_color>Black</Hair_color>
+    <Eye_color>Black</Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>Extremely skilled at potions and Occlumency</Skills>
+    <Birth>9 January 1960</Birth>
+    <Death>2 May, 1998</Death>
+  </row>
+  <row>
+    <Id>47</Id>
+    <Name>Draco Malfoy</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Slytherin</House>
+    <Wand>10&quot; Hawthorn unicorn hair</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>White-blond</Hair_color>
+    <Eye_color>Grey</Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>Prefect, Seeker</Skills>
+    <Birth>5 June, 1980</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>48</Id>
+    <Name>Vincent Crabbe</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Slytherin</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>Black</Hair_color>
+    <Eye_color>Black</Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>Beater</Skills>
+    <Birth>c. 1979-1980</Birth>
+    <Death>2 May, 1998</Death>
+  </row>
+  <row>
+    <Id>49</Id>
+    <Name>Gregory Goyle</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Slytherin</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>Brown</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>Beater</Skills>
+    <Birth>1 September 1979-31 August 1980</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>50</Id>
+    <Name>Bellatrix Lestrange</Name>
+    <Gender>Female</Gender>
+    <Job></Job>
+    <House>Slytherin</House>
+    <Wand>12¾&quot; Walnut dragon heartstring</Wand>
+    <Patronus></Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>Black</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty>Lord Voldemort  | Death Eaters</Loyalty>
+    <Skills>She is a duellist of great skill and an experienced Occlumens</Skills>
+    <Birth>1951</Birth>
+    <Death>2 May, 1998</Death>
+  </row>
+  <row>
+    <Id>51</Id>
+    <Name>Dolores Jane Umbridge</Name>
+    <Gender>Female</Gender>
+    <Job>Professor of Defence Against the Dark Arts | Department of Magical Law Enforcement</Job>
+    <House>Slytherin</House>
+    <Wand>8&quot; Birch dragon heartstring</Wand>
+    <Patronus>Cat</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Half-blood</Blood_status>
+    <Hair_color>Iron grey</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty>Ministry of Magic</Loyalty>
+    <Skills>Her punishment quill is of her own invention</Skills>
+    <Birth>26 August</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>52</Id>
+    <Name>Horace Eugene Flaccus Slughorn</Name>
+    <Gender></Gender>
+    <Job>Professor of Potions </Job>
+    <House>Slytherin</House>
+    <Wand>10¼&quot; Cedar dragon heartstring fairly flexible</Wand>
+    <Patronus>Non-corporeal</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color>Bald</Hair_color>
+    <Eye_color>Gooseberry</Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>Accomplished Occlumens, expert Potioneer, advanced self-transfiguration</Skills>
+    <Birth>28 April</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>53</Id>
+    <Name>Lucius Malfoy</Name>
+    <Gender>Male</Gender>
+    <Job>School Governor</Job>
+    <House>Slytherin</House>
+    <Wand>Elm and dragon heartstring</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>White-blond</Hair_color>
+    <Eye_color>Grey</Eye_color>
+    <Loyalty>Lord Voldemort  | Death Eaters</Loyalty>
+    <Skills>Skilled duellist and potioneer</Skills>
+    <Birth>c. 1954</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>54</Id>
+    <Name>Narcissa Malfoy</Name>
+    <Gender>Female</Gender>
+    <Job></Job>
+    <House>Slytherin</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>Blonde</Hair_color>
+    <Eye_color>Blue</Eye_color>
+    <Loyalty>Lord Voldemort  | Death Eaters</Loyalty>
+    <Skills></Skills>
+    <Birth>1955</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>55</Id>
+    <Name>Regulus Arcturus Black</Name>
+    <Gender>Male</Gender>
+    <Job></Job>
+    <House>Slytherin</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Non-corporeal</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>Black</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>Seeker</Skills>
+    <Birth>1961</Birth>
+    <Death>1979</Death>
+  </row>
+  <row>
+    <Id>56</Id>
+    <Name>Pansy Parkinson</Name>
+    <Gender>Female</Gender>
+    <Job>Student</Job>
+    <House>Slytherin</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color></Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>Prefect</Skills>
+    <Birth> 1 September 1979- 31 August 1980</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>57</Id>
+    <Name>Blaise Zabini</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Slytherin</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color>Black</Hair_color>
+    <Eye_color>Brown</Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>Chaser</Skills>
+    <Birth>1 September, 1979 – 21 April, 1980</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>58</Id>
+    <Name>Tom Marvolo Riddle</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Slytherin</House>
+    <Wand>13½&quot; Yew phoenix feather core</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Half-blood</Blood_status>
+    <Hair_color>Bald</Hair_color>
+    <Eye_color>Scarlet </Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>Dark Lord, Outstanding manipulation, Parseltongue, Heir of Slytherin, Dark magic, Inferi creation and control</Skills>
+    <Birth>31 December 1926</Birth>
+    <Death>2 May, 1998</Death>
+  </row>
+  <row>
+    <Id>59</Id>
+    <Name>Theodore Nott</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Slytherin</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>Brown</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty></Loyalty>
+    <Skills></Skills>
+    <Birth>1 September, 1979 – 21 April, 1980</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>60</Id>
+    <Name>Rodolphus Lestrange</Name>
+    <Gender>Male</Gender>
+    <Job></Job>
+    <House>Slytherin</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>Dark</Hair_color>
+    <Eye_color>Dark</Eye_color>
+    <Loyalty>Lord Voldemort  | Death Eaters</Loyalty>
+    <Skills></Skills>
+    <Birth>Pre 1964</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>61</Id>
+    <Name>Millicent Bulstrode</Name>
+    <Gender>Female</Gender>
+    <Job>Student</Job>
+    <House>Slytherin</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Half-blood</Blood_status>
+    <Hair_color>Black</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty></Loyalty>
+    <Skills></Skills>
+    <Birth>1 September 1979- 31 August 1980 </Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>62</Id>
+    <Name>Graham Montague</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Slytherin</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color>Brown</Hair_color>
+    <Eye_color>Brown</Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>Quidditch captain, Chaser</Skills>
+    <Birth>In or prior to c.1981</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>63</Id>
+    <Name>Bloody Baron</Name>
+    <Gender>Male</Gender>
+    <Job>Slytherin House Ghost</Job>
+    <House>Slytherin</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Ghost</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color></Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>Controlling Peeves</Skills>
+    <Birth>Post 982</Birth>
+    <Death>11th century</Death>
+  </row>
+  <row>
+    <Id>64</Id>
+    <Name>Marcus Flint</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Slytherin</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color>Black</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>Chaser, Captain</Skills>
+    <Birth> 1 September 1975- 31 August 1976</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>65</Id>
+    <Name>Penelope Clearwater</Name>
+    <Gender>Female</Gender>
+    <Job>Student</Job>
+    <House>Ravenclaw</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Non-corporeal</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Muggle-born or half-blood[</Blood_status>
+    <Hair_color>Blonde</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>Prefect</Skills>
+    <Birth> 1 September 1975- 31 August 1976</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>66</Id>
+    <Name>Roger Davies</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Ravenclaw</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status></Blood_status>
+    <Hair_color>Dark</Hair_color>
+    <Eye_color>Dark</Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>Quidditch Captain, Chaser</Skills>
+    <Birth> 1 September 1977- 31 August 1978</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>67</Id>
+    <Name>Marcus Belby</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Ravenclaw</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color>Brown</Hair_color>
+    <Eye_color>Dark</Eye_color>
+    <Loyalty></Loyalty>
+    <Skills></Skills>
+    <Birth> 1 September 1978 - 31 August 1979</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>68</Id>
+    <Name>Salazar Slytherin</Name>
+    <Gender>Male</Gender>
+    <Job>Founder of Slytherin</Job>
+    <House>Slytherin</House>
+    <Wand>snakewood, Basilisk horn</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>Grey</Hair_color>
+    <Eye_color>Dark</Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>Accomplished Legilimens and one of the first recorded Parselmouths</Skills>
+    <Birth>Pre 976</Birth>
+    <Death>11th century</Death>
+  </row>
+  <row>
+    <Id>69</Id>
+    <Name>Godric Gryffindor</Name>
+    <Gender>Male</Gender>
+    <Job>Founder of Gryffindor</Job>
+    <House>Gryffindor</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color>Red</Hair_color>
+    <Eye_color>Green</Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>The most accomplished duellist of his time</Skills>
+    <Birth>Pre 976</Birth>
+    <Death>11th century</Death>
+  </row>
+  <row>
+    <Id>70</Id>
+    <Name>Rowena Ravenclaw</Name>
+    <Gender>Female</Gender>
+    <Job>Founder of Ravenclaw</Job>
+    <House>Ravenclaw</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color>Black</Hair_color>
+    <Eye_color>Dark</Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>Extremely skilled witch, known for her intelligence and wisdom</Skills>
+    <Birth>Pre 976</Birth>
+    <Death>11th century</Death>
+  </row>
+  <row>
+    <Id>71</Id>
+    <Name>Nicholas de Mimsy-Porpington</Name>
+    <Gender>Male</Gender>
+    <Job>Gryffindor House Ghost</Job>
+    <House>Gryffindor</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Ghost</Species>
+    <Blood_status></Blood_status>
+    <Hair_color>Grey</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty></Loyalty>
+    <Skills></Skills>
+    <Birth>1401 -1475</Birth>
+    <Death>31 October, 1492</Death>
+  </row>
+  <row>
+    <Id>72</Id>
+    <Name>Cuthbert Binns</Name>
+    <Gender>Male</Gender>
+    <Job>Professor of History of Magic </Job>
+    <House></House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Ghost</Species>
+    <Blood_status></Blood_status>
+    <Hair_color>White (balding)</Hair_color>
+    <Eye_color>Black</Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>Boring a class with facts that might be interesting if anyone else was giving the lesson</Skills>
+    <Birth></Birth>
+    <Death>Pre 1970s</Death>
+  </row>
+  <row>
+    <Id>73</Id>
+    <Name>Barty Crouch Jr.</Name>
+    <Gender>Male</Gender>
+    <Job>Professor of Defence Against the Dark Arts (as Alastor Moody) </Job>
+    <House></House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color>Straw blond</Hair_color>
+    <Eye_color>Pale, freckled</Eye_color>
+    <Loyalty>Lord Voldemort  | Death Eaters</Loyalty>
+    <Skills>Skilled potioneer</Skills>
+    <Birth>1962</Birth>
+    <Death>1995-1996</Death>
+  </row>
+  <row>
+    <Id>74</Id>
+    <Name>Charity Burbage</Name>
+    <Gender>Female</Gender>
+    <Job>Professor of Muggle Studies</Job>
+    <House></House>
+    <Wand>Unknown</Wand>
+    <Patronus>Non-corporeal</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color>Blonde</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>Teaching and studying the Muggle world</Skills>
+    <Birth>Before 1976</Birth>
+    <Death>Late July, 1997</Death>
+  </row>
+  <row>
+    <Id>75</Id>
+    <Name>Firenze</Name>
+    <Gender>Male</Gender>
+    <Job>Professor of Divination</Job>
+    <House></House>
+    <Wand></Wand>
+    <Patronus></Patronus>
+    <Species>Centaur</Species>
+    <Blood_status></Blood_status>
+    <Hair_color>White-blond</Hair_color>
+    <Eye_color>Astonishingly blue</Eye_color>
+    <Loyalty></Loyalty>
+    <Skills></Skills>
+    <Birth></Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>76</Id>
+    <Name>Alecto Carrow</Name>
+    <Gender>Female</Gender>
+    <Job>Professor of Muggle Studies</Job>
+    <House>Slytherin</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color></Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty>Lord Voldemort  | Death Eaters</Loyalty>
+    <Skills>Spreading anti-Muggle propaganda</Skills>
+    <Birth>Pre 1981</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>77</Id>
+    <Name>Amycus Carrow</Name>
+    <Gender>Male</Gender>
+    <Job>Professor of Dark Arts</Job>
+    <House>Slytherin</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color></Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty>Lord Voldemort  | Death Eaters</Loyalty>
+    <Skills>Cruciatus Curse</Skills>
+    <Birth>Pre 1982</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>78</Id>
+    <Name>Helga Hufflepuff</Name>
+    <Gender>Female</Gender>
+    <Job>Founder of Hufflepuff</Job>
+    <House>Hufflepuff</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color>Brown</Hair_color>
+    <Eye_color>Blue</Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>Food-related Charms. Many traditional Hogwarts recipes originated with her</Skills>
+    <Birth>Pre 976</Birth>
+    <Death>11th century</Death>
+  </row>
+  <row>
+    <Id>79</Id>
+    <Name>Fat Friar</Name>
+    <Gender>Male</Gender>
+    <Job>Hufflepuff House Ghost</Job>
+    <House>Hufflepuff</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Ghost</Species>
+    <Blood_status></Blood_status>
+    <Hair_color>Brown</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>Curing peasants of the pox</Skills>
+    <Birth>10th century</Birth>
+    <Death>Pre 1988</Death>
+  </row>
+  <row>
+    <Id>80</Id>
+    <Name>Helena Ravenclaw</Name>
+    <Gender>Female</Gender>
+    <Job>Ravenclaw House Ghost</Job>
+    <House>Ravenclaw</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Ghost</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color>Black</Hair_color>
+    <Eye_color>Grey</Eye_color>
+    <Loyalty></Loyalty>
+    <Skills></Skills>
+    <Birth>Post 982</Birth>
+    <Death>996-1000</Death>
+  </row>
+  <row>
+    <Id>81</Id>
+    <Name>Nymphadora Tonks</Name>
+    <Gender>Female</Gender>
+    <Job>Auror</Job>
+    <House>Hufflepuff</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Jack rabbit, Wolf</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Half-blood</Blood_status>
+    <Hair_color>Variable</Hair_color>
+    <Eye_color>Variable</Eye_color>
+    <Loyalty>Ministry of Magic | Order of the Phoenix</Loyalty>
+    <Skills>Talented Auror, Metamorphmagus</Skills>
+    <Birth> 1 September 1972- 31 August 1973</Birth>
+    <Death>2 May, 1998</Death>
+  </row>
+  <row>
+    <Id>82</Id>
+    <Name>Pomona Sprout</Name>
+    <Gender>Female</Gender>
+    <Job>Professor of Herbology | Head of Hufflepuff House</Job>
+    <House>Hufflepuff</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Non-corporeal</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color></Hair_color>
+    <Eye_color>Grey</Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>Herbology</Skills>
+    <Birth>15 May</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>83</Id>
+    <Name>Newton Scamander</Name>
+    <Gender>Male</Gender>
+    <Job>Employee in the Beast Division of the Department for the Regulation and Control of Magical Creatures</Job>
+    <House>Hufflepuff</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color>Red brown</Hair_color>
+    <Eye_color>Blue</Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>Magizoology, Order of Merlin, Second Class</Skills>
+    <Birth>24 February 1897</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>84</Id>
+    <Name>Cedric Diggory</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Hufflepuff</House>
+    <Wand>12¼&quot;, Ash, unicorn hair</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>Dark</Hair_color>
+    <Eye_color>Grey</Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>Skilled Seeker</Skills>
+    <Birth>1 September - 30 October 1977</Birth>
+    <Death>24 June, 1995</Death>
+  </row>
+  <row>
+    <Id>85</Id>
+    <Name>Justin Finch-Fletchley</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Hufflepuff</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Non-corporeal</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Muggle-born</Blood_status>
+    <Hair_color>Red</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty>Dumbledore&apos;s Army</Loyalty>
+    <Skills></Skills>
+    <Birth>1 September 1979- 31 August 1980</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>86</Id>
+    <Name>Zacharias Smith</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Hufflepuff</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color>Blonde</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty>Dumbledore&apos;s Army</Loyalty>
+    <Skills>Chaser</Skills>
+    <Birth>1 September 1979 - 2 May 1981</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>87</Id>
+    <Name>Hannah Abbott</Name>
+    <Gender>Female</Gender>
+    <Job>Student</Job>
+    <House>Hufflepuff</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Non-corporeal</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Half-blood</Blood_status>
+    <Hair_color>Blonde</Hair_color>
+    <Eye_color>Brown</Eye_color>
+    <Loyalty>Dumbledore&apos;s Army</Loyalty>
+    <Skills>Defensive spells, learned with Dumbledore&apos;s Army</Skills>
+    <Birth>1 September 1979 - 31 August 1980</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>88</Id>
+    <Name>Ernest Macmillan</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Hufflepuff</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Boar</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>Blond</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty>Dumbledore&apos;s Army</Loyalty>
+    <Skills>Revising, being a Prefect, getting the wrong end of the stick</Skills>
+    <Birth>21 April 1980 - 31 August 1980</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>89</Id>
+    <Name>Susan Bones</Name>
+    <Gender>Female</Gender>
+    <Job>Student</Job>
+    <House>Hufflepuff</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Half-blood</Blood_status>
+    <Hair_color></Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty>Dumbledore&apos;s Army</Loyalty>
+    <Skills>Defensive spells, learned with Dumbledore&apos;s Army</Skills>
+    <Birth>1 September 1979 - 31 August 1980</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>90</Id>
+    <Name>Walden Macnair</Name>
+    <Gender>Male</Gender>
+    <Job>Executioner for the Committee for the Disposal of Dangerous Creatures</Job>
+    <House>Slytherin</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color>Black</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty>Lord Voldemort  | Death Eaters</Loyalty>
+    <Skills>Liaising with giants</Skills>
+    <Birth>In or before 1970s</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>91</Id>
+    <Name>Augustus Rookwood</Name>
+    <Gender>Male</Gender>
+    <Job>Unspeakable</Job>
+    <House>Slytherin</House>
+    <Wand>Unknown</Wand>
+    <Patronus>None</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color>Brown/greying</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty>Lord Voldemort  | Death Eaters</Loyalty>
+    <Skills>Spying for Lord Voldemort</Skills>
+    <Birth>pre 1964</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>92</Id>
+    <Name>Antonin Dolohov</Name>
+    <Gender>Male</Gender>
+    <Job>Death Eater</Job>
+    <House>Slytherin</House>
+    <Wand>Unknown</Wand>
+    <Patronus>None</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or Half-blood</Blood_status>
+    <Hair_color>Dark</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty>Lord Voldemort  | Death Eaters</Loyalty>
+    <Skills>Duelling. Fought and killed Molly Weasley&apos;s brothers and Remus Lupin</Skills>
+    <Birth>pre 1950</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>93</Id>
+    <Name>Corban Yaxley</Name>
+    <Gender>Male</Gender>
+    <Job>Head of the Department of Magical Law Enforcement</Job>
+    <House>Slytherin</House>
+    <Wand>Unknown</Wand>
+    <Patronus>None</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or Half-blood</Blood_status>
+    <Hair_color>Blonde</Hair_color>
+    <Eye_color>Blue</Eye_color>
+    <Loyalty>Lord Voldemort  | Death Eaters</Loyalty>
+    <Skills>Imperius curse, undercover work</Skills>
+    <Birth>Pre 1970s</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>94</Id>
+    <Name>Igor Karkaroff</Name>
+    <Gender>Male</Gender>
+    <Job>Headmaster of Durmstrang Institute</Job>
+    <House></House>
+    <Wand>Unknown</Wand>
+    <Patronus>None</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or Half-blood</Blood_status>
+    <Hair_color>Silver| formerly black</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>Skilled in the Dark Arts</Skills>
+    <Birth>pre 1965</Birth>
+    <Death>24 June, 1995 – 31 July, 1996</Death>
+  </row>
+  <row>
+    <Id>95</Id>
+    <Name>Kingsley Shacklebolt</Name>
+    <Gender>Male</Gender>
+    <Job>Auror  | Minister for Magic</Job>
+    <House></House>
+    <Wand>Unknown</Wand>
+    <Patronus>Lynx</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>Bald</Hair_color>
+    <Eye_color>Black</Eye_color>
+    <Loyalty>Order of the Phoenix</Loyalty>
+    <Skills>Exceptionally skilled duellist and Auror</Skills>
+    <Birth>Pre 1973</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>96</Id>
+    <Name>Alastor Moody</Name>
+    <Gender>Male</Gender>
+    <Job>Auror </Job>
+    <House></House>
+    <Wand>Unknown</Wand>
+    <Patronus>Non-corporeal</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>Grey</Hair_color>
+    <Eye_color>One dark, one electric blue</Eye_color>
+    <Loyalty>Order of the Phoenix</Loyalty>
+    <Skills>A highly accomplished Auror and an outstanding duellist, also skilled in non-verbal magic</Skills>
+    <Birth>Pre 1960</Birth>
+    <Death>27 July, 1997</Death>
+  </row>
+  <row>
+    <Id>97</Id>
+    <Name>Alice Longbottom</Name>
+    <Gender>Female</Gender>
+    <Job>Auror</Job>
+    <House></House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>Blonde</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty>Original Order of the Phoenix</Loyalty>
+    <Skills>Auror</Skills>
+    <Birth></Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>98</Id>
+    <Name>Frank Longbottom</Name>
+    <Gender>Male</Gender>
+    <Job>Auror</Job>
+    <House>Gryffindor</House>
+    <Wand>Inherited by his son, Neville. It was broken in battle at the Department of Mysteries.</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>Blonde</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty>Original Order of the Phoenix</Loyalty>
+    <Skills>Auror</Skills>
+    <Birth> 1 September 1957 - 31 August 1959 or earlier</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>99</Id>
+    <Name>Rufus Scrimgeour</Name>
+    <Gender>Male</Gender>
+    <Job>Head of Auror Office| Minister for Magic</Job>
+    <House></House>
+    <Wand>Unknown</Wand>
+    <Patronus>Non-corporeal</Patronus>
+    <Species>Human</Species>
+    <Blood_status></Blood_status>
+    <Hair_color>Tawny</Hair_color>
+    <Eye_color>Yellowish</Eye_color>
+    <Loyalty>Minister of Magic</Loyalty>
+    <Skills>Highly regarded as a skilled Auror</Skills>
+    <Birth>Pre 1968</Birth>
+    <Death>1 August, 1997</Death>
+  </row>
+  <row>
+    <Id>100</Id>
+    <Name>Cornelius Oswald Fudge</Name>
+    <Gender>Male</Gender>
+    <Job>Minister for Magic</Job>
+    <House></House>
+    <Wand>Unknown</Wand>
+    <Patronus>Non-corporeal</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or Half-blood</Blood_status>
+    <Hair_color>Grey</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty>Minister of Magic</Loyalty>
+    <Skills>Turning a blind eye to the continuing threat of Dark Magic in the name of keeping up morale</Skills>
+    <Birth>Pre 1964</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>101</Id>
+    <Name>Barty Crouch Sr.</Name>
+    <Gender>Male</Gender>
+    <Job>Head of the Department of International Magical Cooperation</Job>
+    <House></House>
+    <Wand>Unknown</Wand>
+    <Patronus>Non-corporeal</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>Grey</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty>Minister of Magic</Loyalty>
+    <Skills>Multilingual, able to fight the Imperius curse</Skills>
+    <Birth>Pre 1940</Birth>
+    <Death>27 May, 1995</Death>
+  </row>
+  <row>
+    <Id>102</Id>
+    <Name>Amos Diggory</Name>
+    <Gender>Male</Gender>
+    <Job>Employee of the Department for the Regulation and Control of Magical Creatures[</Job>
+    <House></House>
+    <Wand>Unknown</Wand>
+    <Patronus>Non-corporeal</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color>Brown</Hair_color>
+    <Eye_color>Ruddy</Eye_color>
+    <Loyalty>Minister of Magic</Loyalty>
+    <Skills>Works for the Department for the Regulation and Control of Magical Creatures</Skills>
+    <Birth></Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>103</Id>
+    <Name>Dedalus Diggle</Name>
+    <Gender>Male</Gender>
+    <Job></Job>
+    <House></House>
+    <Wand>Unknown</Wand>
+    <Patronus>Non-corporeal</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color></Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty>Order of the Phoenix</Loyalty>
+    <Skills>An enthusiastic volunteer for the Order and a helpful escort for Harry and his relatives</Skills>
+    <Birth>Pre 1964</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>104</Id>
+    <Name>Elphias Doge</Name>
+    <Gender>Male</Gender>
+    <Job>Special Advisor to the Wizengamot</Job>
+    <House></House>
+    <Wand>Unknown</Wand>
+    <Patronus>Non-corporeal</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>Silver</Hair_color>
+    <Eye_color>Grey/Blue[</Eye_color>
+    <Loyalty>Order of the Phoenix</Loyalty>
+    <Skills>Writing</Skills>
+    <Birth> 1 September 1880 - 31 August 1881</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>105</Id>
+    <Name>Fleur Isabelle Delacour</Name>
+    <Gender>Female</Gender>
+    <Job>Part-time at Gringotts Wizarding Bank</Job>
+    <House>Beauxbatons Academy of Magic</House>
+    <Wand>9½&quot;, Rosewood, veela hair</Wand>
+    <Patronus>Non-corporeal</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Quarter-Veela</Blood_status>
+    <Hair_color>Silvery-blonde</Hair_color>
+    <Eye_color>Dark blue[</Eye_color>
+    <Loyalty>Order of the Phoenix</Loyalty>
+    <Skills>part Veela, and therefore possesses some of their magical powers. She was also selected to compete in the Triwizard Tournament</Skills>
+    <Birth>Pre 30 October, 1977</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>106</Id>
+    <Name>Aberforth Dumbledore</Name>
+    <Gender>Male</Gender>
+    <Job>Owner and Barman of the Hog&apos;s Head Inn</Job>
+    <House></House>
+    <Wand>Unknown</Wand>
+    <Patronus>Goat</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Half-blood</Blood_status>
+    <Hair_color>Grey</Hair_color>
+    <Eye_color>Bright Blue</Eye_color>
+    <Loyalty>Order of the Phoenix</Loyalty>
+    <Skills>Bartending, caring for Ariana</Skills>
+    <Birth> 1 September 1883-31 August 1884</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>107</Id>
+    <Name>Mundungus Fletcher</Name>
+    <Gender>Male</Gender>
+    <Job>Dealer of wizarding artifacts</Job>
+    <House></House>
+    <Wand>Unknown</Wand>
+    <Patronus>Non-corporeal</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Half-blood[</Blood_status>
+    <Hair_color>Ginger</Hair_color>
+    <Eye_color>Brown</Eye_color>
+    <Loyalty>Order of the Phoenix</Loyalty>
+    <Skills>Gathering information for the Order, dealing in stolen cauldrons, &apos;acquiring&apos; the odd Muggle car</Skills>
+    <Birth>Before 1962</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>108</Id>
+    <Name>Sturgis Podmore</Name>
+    <Gender>Male</Gender>
+    <Job>Advance Guard</Job>
+    <House></House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color>Straw-coloured</Hair_color>
+    <Eye_color>Brown</Eye_color>
+    <Loyalty>Order of the Phoenix</Loyalty>
+    <Skills>Carrying out guard duty for the Order</Skills>
+    <Birth> 8 September 1956 - 7 September 1957</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>109</Id>
+    <Name>Hestia Jones</Name>
+    <Gender>Female</Gender>
+    <Job>Advance Guard</Job>
+    <House></House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color>Black</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty>Order of the Phoenix</Loyalty>
+    <Skills>Carrying out escort missions for the Order</Skills>
+    <Birth>Pre 1978</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>110</Id>
+    <Name>Marlene McKinnon</Name>
+    <Gender>Female</Gender>
+    <Job></Job>
+    <House></House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status></Blood_status>
+    <Hair_color>Red</Hair_color>
+    <Eye_color>Brown</Eye_color>
+    <Loyalty>Original Order of the Phoenix</Loyalty>
+    <Skills></Skills>
+    <Birth></Birth>
+    <Death>July, 1981</Death>
+  </row>
+  <row>
+    <Id>111</Id>
+    <Name>Fabian Prewett</Name>
+    <Gender>Male</Gender>
+    <Job></Job>
+    <House></House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>Red</Hair_color>
+    <Eye_color>Grey</Eye_color>
+    <Loyalty>Original Order of the Phoenix</Loyalty>
+    <Skills>Duelling</Skills>
+    <Birth></Birth>
+    <Death>1981</Death>
+  </row>
+  <row>
+    <Id>112</Id>
+    <Name>Gideon Prewett</Name>
+    <Gender>Male</Gender>
+    <Job></Job>
+    <House></House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>Red </Hair_color>
+    <Eye_color>Dark Grey</Eye_color>
+    <Loyalty>Original Order of the Phoenix</Loyalty>
+    <Skills>Duelling</Skills>
+    <Birth></Birth>
+    <Death>1981</Death>
+  </row>
+  <row>
+    <Id>113</Id>
+    <Name>Emmeline Vance</Name>
+    <Gender>Female</Gender>
+    <Job>Advance Guard</Job>
+    <House></House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status></Blood_status>
+    <Hair_color></Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty>Order of the Phoenix</Loyalty>
+    <Skills></Skills>
+    <Birth>pre 1964</Birth>
+    <Death>Early July, 1996</Death>
+  </row>
+  <row>
+    <Id>114</Id>
+    <Name>Edgar Bones</Name>
+    <Gender>Male</Gender>
+    <Job></Job>
+    <House>Hufflepuff</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color>Reddish-brown</Hair_color>
+    <Eye_color>Grey</Eye_color>
+    <Loyalty>Original Order of the Phoenix</Loyalty>
+    <Skills>Said to be a great wizard</Skills>
+    <Birth></Birth>
+    <Death>1981</Death>
+  </row>
+  <row>
+    <Id>115</Id>
+    <Name>Dorcas Meadowes</Name>
+    <Gender>Female</Gender>
+    <Job></Job>
+    <House></House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status></Blood_status>
+    <Hair_color>Black</Hair_color>
+    <Eye_color>Brown</Eye_color>
+    <Loyalty>Original Order of the Phoenix</Loyalty>
+    <Skills></Skills>
+    <Birth></Birth>
+    <Death>1981</Death>
+  </row>
+  <row>
+    <Id>116</Id>
+    <Name>Benjy Fenwick</Name>
+    <Gender>Male</Gender>
+    <Job>Unknown</Job>
+    <House></House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human</Species>
+    <Blood_status></Blood_status>
+    <Hair_color>Black</Hair_color>
+    <Eye_color>Black</Eye_color>
+    <Loyalty>Original Order of the Phoenix</Loyalty>
+    <Skills></Skills>
+    <Birth></Birth>
+    <Death>1981</Death>
+  </row>
+  <row>
+    <Id>117</Id>
+    <Name>Madame Olympe Maxime</Name>
+    <Gender>Female</Gender>
+    <Job>Headmistress of Beauxbatons Academy of Magic</Job>
+    <House>Beauxbatons Academy of Magic</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Half-Human/Half-Giant</Species>
+    <Blood_status>Part-Human (Half-giant)</Blood_status>
+    <Hair_color>Brown</Hair_color>
+    <Eye_color>Black</Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>An ‘excellent dancer’, in the words of Dumbledore himself</Skills>
+    <Birth></Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>118</Id>
+    <Name>Gabrielle Delacour</Name>
+    <Gender>Female</Gender>
+    <Job>None</Job>
+    <House>Beauxbatons Academy of Magic</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human </Species>
+    <Blood_status>Quarter-Veela</Blood_status>
+    <Hair_color>Silvery-blonde</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>part Veela and therefore may possess some of their magical powers</Skills>
+    <Birth> 31 July 1985 - 30 July 1986</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>119</Id>
+    <Name>Viktor Krum</Name>
+    <Gender>Male</Gender>
+    <Job>Seeker for the Bulgarian National Quidditch team</Job>
+    <House>Durmstrang Institute</House>
+    <Wand>10¼&quot;, Hornbeam, dragon heartstring</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human </Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color>Dark</Hair_color>
+    <Eye_color>Dark</Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>One of the best Seekers in the world</Skills>
+    <Birth>April-August, 1976</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>120</Id>
+    <Name>Petunia Dursley</Name>
+    <Gender>Female</Gender>
+    <Job>None</Job>
+    <House></House>
+    <Wand></Wand>
+    <Patronus></Patronus>
+    <Species>Human </Species>
+    <Blood_status>Muggle</Blood_status>
+    <Hair_color>Blonde</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty></Loyalty>
+    <Skills></Skills>
+    <Birth>Pre 1960</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>121</Id>
+    <Name>Vernon Dursley</Name>
+    <Gender>Male</Gender>
+    <Job>Director at Grunnings</Job>
+    <House></House>
+    <Wand></Wand>
+    <Patronus></Patronus>
+    <Species>Human </Species>
+    <Blood_status>Muggle</Blood_status>
+    <Hair_color>Black</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>Schmoozing clients, pretending magic doesn&apos;t exist</Skills>
+    <Birth>Pre 1954</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>122</Id>
+    <Name>Dudley Dursley</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House></House>
+    <Wand></Wand>
+    <Patronus></Patronus>
+    <Species>Human </Species>
+    <Blood_status>Muggle</Blood_status>
+    <Hair_color>Blond</Hair_color>
+    <Eye_color>Blue</Eye_color>
+    <Loyalty></Loyalty>
+    <Skills></Skills>
+    <Birth> 23 June 1980</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>123</Id>
+    <Name>Marge Dursley</Name>
+    <Gender>Female</Gender>
+    <Job>Dog breeder</Job>
+    <House></House>
+    <Wand></Wand>
+    <Patronus></Patronus>
+    <Species>Human </Species>
+    <Blood_status>Muggle</Blood_status>
+    <Hair_color>Grey</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>Breeding bulldogs</Skills>
+    <Birth>Pre 1954</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>124</Id>
+    <Name>Dennis Creevey</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Gryffindor</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human </Species>
+    <Blood_status>Muggle-born</Blood_status>
+    <Hair_color>Mousy brown</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty>Dumbledore&apos;s Army</Loyalty>
+    <Skills></Skills>
+    <Birth> 1 September 1982 - 31 August 1983</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>125</Id>
+    <Name>Albus Severus Potter</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Slytherin</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human </Species>
+    <Blood_status>Half-blood</Blood_status>
+    <Hair_color>Jet-black</Hair_color>
+    <Eye_color>Bright green</Eye_color>
+    <Loyalty></Loyalty>
+    <Skills></Skills>
+    <Birth>Between 1 September 2005-31 August 2006</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>126</Id>
+    <Name>Scorpius Hyperion Malfoy</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Slytherin</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human </Species>
+    <Blood_status>Pure-blood</Blood_status>
+    <Hair_color>White blond</Hair_color>
+    <Eye_color>Grey</Eye_color>
+    <Loyalty></Loyalty>
+    <Skills></Skills>
+    <Birth>Between 1 September 2005-31 August 2007</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>127</Id>
+    <Name>Edward Remus Lupin</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Hufflepuff</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human (Metamorphmagus)</Species>
+    <Blood_status>Half-blood</Blood_status>
+    <Hair_color>Variable</Hair_color>
+    <Eye_color>Variable</Eye_color>
+    <Loyalty></Loyalty>
+    <Skills></Skills>
+    <Birth>April, 1998</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>128</Id>
+    <Name>James Sirius Potter</Name>
+    <Gender>Male</Gender>
+    <Job>Student</Job>
+    <House>Gryffindor</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human </Species>
+    <Blood_status>Half-blood</Blood_status>
+    <Hair_color></Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty></Loyalty>
+    <Skills></Skills>
+    <Birth>1 September 2003-31 August 2004</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>129</Id>
+    <Name>Rose Granger-Weasley</Name>
+    <Gender>Female</Gender>
+    <Job>Student</Job>
+    <House>Gryffindor</House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human </Species>
+    <Blood_status>Half-blood</Blood_status>
+    <Hair_color>Red</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>Chaser</Skills>
+    <Birth>1 September 2005-31 August 2006 </Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>130</Id>
+    <Name>Argus Filch</Name>
+    <Gender>Male</Gender>
+    <Job>Caretaker of Hogwarts</Job>
+    <House></House>
+    <Wand></Wand>
+    <Patronus></Patronus>
+    <Species>Human </Species>
+    <Blood_status>Squib</Blood_status>
+    <Hair_color>Grey</Hair_color>
+    <Eye_color>Pale</Eye_color>
+    <Loyalty>Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills>Sniffing out mischief</Skills>
+    <Birth>Pre 1951</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>131</Id>
+    <Name>Poppy Pomfrey</Name>
+    <Gender>Female</Gender>
+    <Job>Matron at Hogwarts School</Job>
+    <House></House>
+    <Wand>Unknown</Wand>
+    <Patronus>Non-corporeal</Patronus>
+    <Species>Human </Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color></Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty>Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills>Skilled medical healer</Skills>
+    <Birth>pre 1954</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>132</Id>
+    <Name>Rolanda Hooch</Name>
+    <Gender>Female</Gender>
+    <Job>Flying Instructor at Hogwarts</Job>
+    <House></House>
+    <Wand>Unknown</Wand>
+    <Patronus>Non-corporeal</Patronus>
+    <Species>Human </Species>
+    <Blood_status></Blood_status>
+    <Hair_color>Grey</Hair_color>
+    <Eye_color>Yellow</Eye_color>
+    <Loyalty>Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills>Teaching, flying, refereeing Quidditch matches</Skills>
+    <Birth>pre 1918</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>133</Id>
+    <Name>Irma Pince</Name>
+    <Gender>Female</Gender>
+    <Job>Librarian at Hogwarts</Job>
+    <House></House>
+    <Wand>Unknown</Wand>
+    <Patronus>Non-corporeal</Patronus>
+    <Species>Human </Species>
+    <Blood_status></Blood_status>
+    <Hair_color></Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty>Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills></Skills>
+    <Birth>Pre 1966</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>134</Id>
+    <Name>Aurora Sinistra</Name>
+    <Gender>Female</Gender>
+    <Job>Astronomer at Hogwarts</Job>
+    <House></House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human </Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color>Dark</Hair_color>
+    <Eye_color>Dark</Eye_color>
+    <Loyalty>Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills></Skills>
+    <Birth>Pre 1968</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>135</Id>
+    <Name>Septima Vector</Name>
+    <Gender>Female</Gender>
+    <Job>Professor of Arithmancyat Hogwarts</Job>
+    <House></House>
+    <Wand>Unknown</Wand>
+    <Patronus>Unknown</Patronus>
+    <Species>Human </Species>
+    <Blood_status></Blood_status>
+    <Hair_color>Black</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty>Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills></Skills>
+    <Birth>Before 1974</Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>136</Id>
+    <Name>Wilhelmina Grubbly-Plank</Name>
+    <Gender>Female</Gender>
+    <Job>Substitute professor of Care of Magical Creatures at Hogwarts</Job>
+    <House></House>
+    <Wand>Unknown</Wand>
+    <Patronus>Non-corporeal</Patronus>
+    <Species>Human </Species>
+    <Blood_status></Blood_status>
+    <Hair_color>Grey</Hair_color>
+    <Eye_color></Eye_color>
+    <Loyalty>Hogwarts School of Witchcraft and Wizardry</Loyalty>
+    <Skills></Skills>
+    <Birth></Birth>
+    <Death></Death>
+  </row>
+  <row>
+    <Id>138</Id>
+    <Name>Gellert Grindelwald</Name>
+    <Gender>Male</Gender>
+    <Job>Revolutionary leader(c. 1920s[6] – 1945)</Job>
+    <House></House>
+    <Wand>15&quot;, Elder, Thestral tail hair core</Wand>
+    <Patronus></Patronus>
+    <Species>Human </Species>
+    <Blood_status>Pure-blood or half-blood</Blood_status>
+    <Hair_color>Blond</Hair_color>
+    <Eye_color>Blue</Eye_color>
+    <Loyalty>Gellert Grindelwald&apos;s Acolytes</Loyalty>
+    <Skills>Duelling</Skills>
+    <Birth>1883</Birth>
+    <Death>March, 1998</Death>
+  </row>
+  <row>
+    <Id>139</Id>
+    <Name>Dobby</Name>
+    <Gender>Male</Gender>
+    <Job>Malfoy family&apos;s house-elf (? - 1993),
+Hogwarts kitchens worker (December 1994 - 1998)</Job>
+    <House></House>
+    <Wand></Wand>
+    <Patronus></Patronus>
+    <Species>House elf</Species>
+    <Blood_status></Blood_status>
+    <Hair_color></Hair_color>
+    <Eye_color>Green</Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>A type of magic specific to house-elves, performed without a wand which includes the ability to apparate, disarm and make objects levitate</Skills>
+    <Birth>28 June</Birth>
+    <Death>Late March, 1998</Death>
+  </row>
+  <row>
+    <Id>140</Id>
+    <Name>Kreacher</Name>
+    <Gender>Male</Gender>
+    <Job>
+Black family&apos;s house-elf (?-1996), 
+Harry Potter&apos;s house-elf, 
+Hogwarts kitchen worker </Job>
+    <House></House>
+    <Wand></Wand>
+    <Patronus></Patronus>
+    <Species>House elf</Species>
+    <Blood_status></Blood_status>
+    <Hair_color></Hair_color>
+    <Eye_color>White</Eye_color>
+    <Loyalty></Loyalty>
+    <Skills>Magic performed without a wand which includes the ability to apparate, disarm and make objects levitate</Skills>
+    <Birth></Birth>
+    <Death></Death>
+  </row>
+</root>
